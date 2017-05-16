@@ -1,0 +1,3 @@
+http://192.168.0.109:5984/articles/_design/tfidf/_view/tfidf-view?limit=100&reduce=false
+
+http://192.168.0.109:5984/articles/_design/tfidf/_view/tfidf-view?limit=100&reduce=true&group=true
